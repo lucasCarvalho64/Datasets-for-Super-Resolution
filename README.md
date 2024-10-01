@@ -12,7 +12,7 @@ A combination of 3 popular Super Resolution datasets (DIV2K, OutDoorScene and Fl
 A combination of forest images from the Flickr website.
 
 ## Unreal
-Screenshots from 3D forest made im Unreal Engine 5.
+Screenshots from 3D forest made in Unreal Engine 5.
 
 ## Real LR
 Screenshots from the same Unreal 5 forest, but the LR images were generated directly by the graphics engine.
