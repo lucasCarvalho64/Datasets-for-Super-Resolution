@@ -21,7 +21,7 @@ Screenshots from the same Unreal 5 forest, but the LR images were generated dire
 The comunity datasets we used (DIV2K, OutDoorScene, Flickr2K and set14) can all be found here:
 https://openmmlab.medium.com/awesome-datasets-for-super-resolution-introduction-and-pre-processing-55f8501f8b18
 
-## Code Source we used:
+## Code Source:
 
 SRGAN:
 https://github.com/entbappy/SRGAN-Super-Resolution-GAN
